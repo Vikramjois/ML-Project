@@ -1,5 +1,5 @@
 import sys
-from src.logger import logging
+from src.logger import logging # use this to save the log file
 
 def error_message_detail(error,error_detail:sys):
     #exc_tb will provide info like on which file and line the exception has occured
