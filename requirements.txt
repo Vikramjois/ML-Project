@@ -4,4 +4,6 @@ seaborn
 openpyxl
 scikit-learn
 dill
+catboost
+xgboost
 -e .
